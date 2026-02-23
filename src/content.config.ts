@@ -1,5 +1,6 @@
 import { glob } from "astro/loaders";
 import { defineCollection, z } from "astro:content";
+import { EventType } from "./enum/event-type";
 
 const proposals = defineCollection({
 	// Load Markdown and MDX files in the `src/content/proposals/` directory.
@@ -15,4 +16,18 @@ const proposals = defineCollection({
 	}),
 });
 
-export const collections = { proposals: proposals };
+const events = defineCollection({
+	// Load Markdown and MDX files in the `src/content/events/` directory.
+	loader: glob({ base: "./src/content/events", pattern: "**/*.{md,mdx}" }),
+	// Type-check frontmatter using a schema
+	schema: z.object({
+		eventType: z.nativeEnum(EventType),
+		eventDate: z.coerce.date(),
+		eventTime: z.string(),
+	}),
+});
+
+export const collections = {
+	proposals: proposals,
+	events: events,
+};

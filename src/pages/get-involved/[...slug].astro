@@ -1,0 +1,21 @@
+---
+import { type CollectionEntry, getCollection } from 'astro:content';
+import BasePage from '../../layouts/BasePage.astro';
+import { render } from 'astro:content';
+
+export async function getStaticPaths() {
+	const posts = await getCollection('events');
+	return posts.map((post) => ({
+		params: { slug: post.id },
+		props: post,
+	}));
+}
+type Props = CollectionEntry<'events'>;
+
+const post = Astro.props;
+const { Content } = await render(post);
+---
+
+<BasePage {...post.data} title={post.data.eventType} pubDate={post.data.eventDate}>
+	<Content />
+</BasePage>
