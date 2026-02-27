@@ -6,9 +6,12 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 
-const posts = (await getCollection('proposals')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+const currentDate = Date.now();
+const allEvents = (await getCollection('events')).sort(
+	(a, b) => a.data.eventDate.valueOf() - b.data.eventDate.valueOf(),
 );
+const pastEvents = allEvents.filter(e => e.data.eventDate.valueOf() < currentDate.valueOf());
+const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= currentDate.valueOf());
 ---
 
 <!doctype html>
@@ -64,15 +67,16 @@ const posts = (await getCollection('proposals')).sort(
 	<body>
 		<Header />
 		<main>
+			<h3>Events</h3>
 			<section>
 				<ul>
 					{
-						posts.map((post) => (
+						futureEvents.map((e) => (
 							<li>
-								<a href={`/proposals/${post.id}/`}>
-									<h4 class="title">{post.data.title}</h4>
+								<a href={`/get-involved/${e.id}/`}>
+									<h4 class="title">{e.data.eventType}</h4>
 									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
+										<FormattedDate date={e.data.eventDate} />
 									</p>
 								</a>
 							</li>
@@ -80,6 +84,20 @@ const posts = (await getCollection('proposals')).sort(
 					}
 				</ul>
 			</section>
+			<h3>Join</h3>
+
+			<p>
+				If you want to become a member of this coalition, please email Gordon at <a href="mailto:up-shoreline-public-access@protonmail.com">up-shoreline-public-access@protonmail.com</a>.
+				There are no required obligations for members, but if you want to share ideas or keep up to date then joining is a good idea.
+			</p>
+
+			<h4>Dress Code</h4>
+
+			<p>
+				This coalition embodies an anti-consumption mindset, meaning we will not produce any merchandise.
+				Generally, we encourage your finest sea attire (whatever that means to you).
+				Don't forget sun protection and a life jacket!
+			</p>
 		</main>
 		<Footer />
 	</body>
