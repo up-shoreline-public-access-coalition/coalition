@@ -14,8 +14,16 @@ type Props = CollectionEntry<'events'>;
 
 const post = Astro.props;
 const { Content } = await render(post);
+
+const eventTimeString = new Date(post.data.eventTime).toLocaleTimeString(undefined, {
+	timeZone: 'America/Los_Angeles',
+	timeZoneName: 'short',
+	hour: 'numeric',
+	minute: 'numeric',
+});
 ---
 
 <BasePage {...post.data} title={post.data.eventType} pubDate={post.data.eventDate}>
+	<h2>Starts {eventTimeString}</h2>
 	<Content />
 </BasePage>
