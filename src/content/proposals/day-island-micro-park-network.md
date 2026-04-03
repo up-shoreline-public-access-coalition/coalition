@@ -2,14 +2,14 @@
 title: "Day Island Micro-Park Network"
 description: "Adopt the public spaces on Day Island as a walkable network of micro-parks."
 pubDate: "Jan 26 2026"
-updatedDate: "Mar 22 2026"
+updatedDate: "Apr 2 2026"
 ---
 
 **Objective: Adopt the public spaces on Day Island as a walkable network of micro-parks.**
 
 ## Current Status
 
-After sharing the initial proposal w/ UP Parks Advisory Commission ([see update](#2026-03-12)), we are planning to focus on spreading awareness and encouraging usage of the public spaces on Day Island throughout Summer 2026. This will involve making flyers, social media posts, in-person networking, and organizing [public events](/get-involved) on the island.  We will aim to document all this and share the results with the city at the end of the summer.
+After sharing the initial proposal w/ UP Parks Advisory Commission ([see update](#2026-03-12)), we are planning to focus on spreading awareness and encouraging usage of the public spaces on Day Island throughout Summer 2026. This will involve making [flyers](/visit-day-island), social media posts, in-person networking, and organizing [public events](/get-involved) on the island.  We will aim to document all this and share the results with the city at the end of the summer.
 
 Our coalition will also be involved in community engagement for the [Day Island Sewer System Replacement](https://www.piercecountywa.gov/7899/Day-Island-Sewer-System-Replacement) to see if there are any wins for public access that can be considered in this county project.
 
@@ -19,19 +19,21 @@ Day Island delineates the University Place shoreline from the north. The island 
 
 ![A map of Day Island, where the public right-of-way is highlighted green. Each right-of-way shoreline access point is labeled A through F, and there is a special inland spot labeled with an asterisk.](../../assets/day-island-micro-park-network/right-of-way.jpg)
 
-* Site `A` ([*Google Maps*](https://maps.app.goo.gl/ezszHzK3WEuPjn9J9))
+*[Google Maps](https://maps.app.goo.gl/VMtUWb1bGhitF3dE8)*
+
+* Site `A`
     * Not a lot to see here currently, other than the backside of several houses and the marina. The gate and steps down seem well maintained.
-* Site `B` ([*Google Maps*](https://maps.app.goo.gl/k9PbHazJ4ahj4cjz5))
+* Site `B`
     * In its current state, this site already acts as a public beach with great views and receives regular visitors. The trail to the beach is sometimes overgrown.
-* Site `C` ([*Google Maps*](https://maps.app.goo.gl/42ymebz9vVEMUQAW6))
+* Site `C`
     * This is the most hostile public site on the island. You would have to climb down from the road to get to the shore. Not a lot to see here currently.
-* Site `D` ([*Google Maps*](https://maps.app.goo.gl/i8uEf5TVYBKg67bV7))
+* Site `D`
     * In its current state, this site already acts as a public beach with great views and receives regular visitors. The trail to the beach is sometimes overgrown. Someone has setup a nice sitting area above the beach with a bench.
-* Site `E` ([*Google Maps*](https://maps.app.goo.gl/yuHdAP8JWHjQyJRh6))
+* Site `E`
     * This site is behind the Day Island Club House. It's not a usable public space currently. It could use some landscaping to make the incline more traversable and address blackberries sticking out everywhere. The view is nice from this site and would be a prime candidate for public lagoon access once the issues are addressed.
-* Site `F` ([*Google Maps*](https://maps.app.goo.gl/ALU5aNjUPkUUYaEd9))
+* Site `F`
     * This is the easiest shore access to find on the island, but the boundaries are not clearly marked. There is no great path to get from the road onto the beach, but you can carefully step over some rocks to get there.
-* Site `*` ([*Google Maps*](https://maps.app.goo.gl/EUDNTjVtUio19J4P9))
+* Site `*`
     * This site is marked with an asterisk because it is the only inland public space on the island. It currently acts as a park with a small lawn and picnic table under a tree that provides shade. It's also the first public space to welcome you onto the island.
 
 ## Proposal

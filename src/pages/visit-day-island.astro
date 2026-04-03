@@ -1,0 +1,24 @@
+---
+import Layout from '../layouts/BasePage.astro';
+
+import { Image } from 'astro:assets';
+import flyer from '../assets/visit-day-island/flyer.png';
+---
+
+<Layout
+    title="Visit Day Island!"
+    description="Promotional page to encourage the public to spend time on Day Island."
+>
+    <p>
+        Our coalition is spreading awareness of the public spaces on Day Island so that the city will consider them for improvement. If you've not visited them before, we recommend checking them out! It doesn't take long, walking the entire island is ~1 mile and each public site is only ~40 feet wide. We enjoy visiting these sites as-is, but recognize they leave a lot to be desired. We greatly appreciate anyone who emails us about their experience visiting these public sites and their ideas for improvement: <a href="mailto:up-shoreline-public-access@protonmail.com">up-shoreline-public-access@protonmail.com</a>!
+        <br><br>
+        They can be hard to find if you don't know where to look!
+        <br>
+        Use this Google Maps list to help you find the sites: <a href="https://maps.app.goo.gl/VMtUWb1bGhitF3dE8">https://maps.app.goo.gl/VMtUWb1bGhitF3dE8</a>
+        <br>
+        <i>(some of the sites were redacted by Google for unknown reasons, but this list should continue to at least show the location markers and brief descriptions)</i>
+        <br><br>
+        If you want to dive deeper, you can read our <a href="/proposals/day-island-micro-park-network">Day Island Micro-Park Network proposal</a> and consider <a href="/get-involved">joining our coalition</a>!
+    </p>
+    <Image src={flyer} alt="A flyer promoting visitation to Day Island this summer. The title says 'Visit Day Island this summer!' and content reads 'Did you know that University Place's Day Island has 6 public beaches? We recommend visiting these 3, west-facing rocky beaches!' There are 3 arrows pointing to the Day Island zoning map at the right side of the flyer to the 3 sites labeled A, B, and C. The content continues to read 'There is also a nice inland park with a shaded picnic table! The UP shoreline has a lot of restricted access, making these small sites even more valuable to the public. Our coalition is advocating for the city to improve these sites, but we need to show public interest!' It then lists the street addresses of the marked sites on the previously mentioned map: A - 1898, B - 1998, C - 2298, D - 2247, Day Island Blvd W. The content then finally reads 'While visiting, think about possible improvements and share them with us!' An email is provided for contact at the bottom: up-shoreline-public-access@protonmail.com. The bottom left has a QR code that links this visit-day-island web page and is labeled 'Additional resources on our coalition website!' The bottom right corner has our coalition logo and metadata marking the flyer for display in 2026 from April to September." />
+</Layout>
