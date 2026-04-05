@@ -1,6 +1,6 @@
 ---
 eventType: "Shore Cruise"
-eventDate: "April 6 2026"
+eventDate: "June 6 2026"
 eventTime: "2026-06-06T13:00:00-07:00"
 ---
 
