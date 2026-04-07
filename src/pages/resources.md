@@ -26,6 +26,8 @@ Consider this to be a directory of resources that coalition members might want t
     * [Center for Urban Waters](https://www.urbanwaters.org/)
         * Developing creative and sustainable solutions to restore and protect Puget Sound.
     * [Cascadia Marine Trail](https://www.wwta.org/water-trails/cascadia-marine-trail/)
+    * [Chambers Creek Regional Park Master Site Plan (2017)](https://www.piercecountywa.gov/DocumentCenter/View/64604/CCRP-Master-Site-Plan-Update-2017)
+        * Looks like it gets updated every 10 years, set to update in 2027?
 * **Legal Stuff**
     * [City of Univeristy Place Master Shoreline Program](https://fortress.wa.gov/ecy/ezshare/SEA/FinalSMPs/PierceCounty/UnivPlace/UnivPlaceSMPSept2016.pdf)
         * Dense content outlining shoreline laws specific to UP. This is set by the Washington State Department of Ecology.
