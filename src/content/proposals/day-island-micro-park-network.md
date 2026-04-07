@@ -2,7 +2,7 @@
 title: "Day Island Micro-Park Network"
 description: "Adopt the public spaces on Day Island as a walkable network of micro-parks."
 pubDate: "Jan 26 2026"
-updatedDate: "Apr 2 2026"
+updatedDate: "Apr 6 2026"
 ---
 
 **Objective: Adopt the public spaces on Day Island as a walkable network of micro-parks.**
@@ -11,7 +11,7 @@ updatedDate: "Apr 2 2026"
 
 After sharing the initial proposal w/ UP Parks Advisory Commission ([see update](#2026-03-12)), we are planning to focus on spreading awareness and encouraging usage of the public spaces on Day Island throughout Summer 2026. This will involve making [flyers](/visit-day-island), social media posts, in-person networking, and organizing [public events](/get-involved) on the island.  We will aim to document all this and share the results with the city at the end of the summer.
 
-Our coalition will also be involved in community engagement for the [Day Island Sewer System Replacement](https://www.piercecountywa.gov/7899/Day-Island-Sewer-System-Replacement) to see if there are any wins for public access that can be considered in this county project.
+Our coalition will also be involved in community engagement for the [Day Island Sewer System Replacement](https://www.piercecountywa.gov/7899/Day-Island-Sewer-System-Replacement) to see if there are any wins for public access that can be considered in this county project. We gave public comment to the city council about this on [2026-04-06](#2026-04-06).
 
 ## Background
 
@@ -63,6 +63,30 @@ The city should view Market Square (aka Village Square, in front of the library)
     * ~0.7 mile walk from nearest bus stop to the island with no connecting sidewalk.
 
 ## Updates
+
+### 2026-04-06
+
+Gordon McCreary (UP Shoreline Public Access Coalition Leader) made a public comment at the University Place city council meeting. This public comment was meant to do 3 main things:
+1. Call to action for city council to be involved in the [Day Island Sewer System Replacement project](https://www.piercecountywa.gov/7899/Day-Island-Sewer-System-Replacement) while considering the future of public access.
+1. Formally introduce the city council to our coalition.
+1. Raise awareness about this proposal.
+
+
+Watch playback (starting at 44m 40s):
+https://www.youtube.com/live/AJv1Zb9cdWs?t=2680
+
+Public comment does not allow for discussion, so we have to hope our message was heard. Prior to the meeting starting, city council member #4 Edward Wood introduced himself to Gordon and they got to briefly discuss the topic. Council member Wood sounded responsive to the proposal, specifically calling out how inconvenient it can be trying to get down to the water when you live well inland.
+
+Present city council members:
+* #1 Javier Figueroa
+* #2 Frank Boykin
+* #3 Alecia Cunningham
+* #4 Edward Wood
+* #5 Denise McCluskey (Mayor Pro Tem)
+* #7 Melanie Grassi
+
+Absent city council members:
+* #6 Stan Flemming (Mayor)
 
 ### 2026-03-18
 
