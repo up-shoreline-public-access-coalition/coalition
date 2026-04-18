@@ -22,7 +22,7 @@ const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= current
 			main {
 				width: 960px;
 			}
-			ul {
+			.events ul {
 				display: flex;
 				flex-wrap: wrap;
 				gap: 2rem;
@@ -30,14 +30,14 @@ const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= current
 				margin: 0;
 				padding: 0;
 			}
-			ul li {
+			.events ul li {
 				width: calc(50% - 1rem);
 			}
-			ul li * {
+			.events ul li * {
 				text-decoration: none;
 				transition: 0.2s ease;
 			}
-			ul li a {
+			.events ul li a {
 				display: block;
 			}
 			.title {
@@ -49,15 +49,15 @@ const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= current
 				margin: 0;
 				color: rgb(var(--gray));
 			}
-			ul li a:hover h4,
-			ul li a:hover .date {
+			.events ul li a:hover h4,
+			.events ul li a:hover .date {
 				color: rgb(var(--accent));
 			}
 			@media (max-width: 720px) {
-				ul {
+				.events ul {
 					gap: 0.5em;
 				}
-				ul li {
+				.events ul li {
 					width: 100%;
 					text-align: center;
 				}
@@ -68,27 +68,49 @@ const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= current
 		<Header />
 		<main>
 			<h3>Events</h3>
-			<section>
-				<ul>
-					{
-						futureEvents.map((e) => (
-							<li>
-								<a href={`/get-involved/${e.id}/`}>
-									<h4 class="title">{e.data.eventType}</h4>
-									<p class="date">
-										<FormattedDate date={e.data.eventDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
+
+			<section class="events">
+				{
+					(futureEvents.length)
+					? (
+						<p>
+							All events are open to the public!
+						</p>
+						<ul>
+							{
+								futureEvents.map((e) => (
+									<li>
+										<a href={`/get-involved/${e.id}/`}>
+											<h4 class="title">{e.data.eventType}</h4>
+											<p class="date">
+												<FormattedDate date={e.data.eventDate} />
+											</p>
+										</a>
+									</li>
+								))
+							}
+						</ul>
+					)
+					: <p>Looks like there are no events planned... let us know if you have any ideas!</p>
+				}
 			</section>
-			<h3>Join</h3>
+			<h3>Membership</h3>
 
 			<p>
-				If you want to become a member of this coalition, please email Gordon at <a href="mailto:up-shoreline-public-access@protonmail.com">up-shoreline-public-access@protonmail.com</a>.
-				There are no required obligations for members, but if you want to share ideas or keep up to date then joining is a good idea.
+				All people are welcome!
+				<br>
+				Membership is relatively informal; you can be as involved as you'd like. 
+				Every member will be kept informed of our general coalition happenings and is encouraged to share ideas, plan events, spread awareness, and advocate.
+				<br>
+				<br>
+				To join or learn more, please email Gordon at <a href="mailto:up-shoreline-public-access@protonmail.com">up-shoreline-public-access@protonmail.com</a>.
+				<br>
+				It will help if you can provide the following in your email:
+				<ul>
+					<li>Name</li>
+					<li>Do you live in UP?</li>
+					<li>Nearest landmark (school, park, etc.)</li>
+				</ul>
 			</p>
 
 			<h4>Dress Code</h4>
