@@ -7,7 +7,7 @@ import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 
 const posts = (await getCollection('proposals')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+	(a, b) => b.data.roi - a.data.roi || a.data.title.localeCompare(b.data.title),
 );
 ---
 
@@ -71,9 +71,6 @@ const posts = (await getCollection('proposals')).sort(
 							<li>
 								<a href={`/proposals/${post.id}/`}>
 									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
 								</a>
 							</li>
 						))

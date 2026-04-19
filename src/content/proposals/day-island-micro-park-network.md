@@ -1,17 +1,10 @@
 ---
 title: "Day Island Micro-Park Network"
 description: "Adopt the public spaces on Day Island as a walkable network of micro-parks."
-pubDate: "Jan 26 2026"
-updatedDate: "Apr 6 2026"
+roi: 8
 ---
 
 **Objective: Adopt the public spaces on Day Island as a walkable network of micro-parks.**
-
-## Current Status
-
-After sharing the initial proposal w/ UP Parks Advisory Commission ([see update](#2026-03-12)), we are planning to focus on spreading awareness and encouraging usage of the public spaces on Day Island throughout Summer 2026. This will involve making [flyers](/visit-day-island), social media posts, in-person networking, and organizing [public events](/get-involved) on the island.  We will aim to document all this and share the results with the city at the end of the summer.
-
-Our coalition will also be involved in community engagement for the [Day Island Sewer System Replacement](https://www.piercecountywa.gov/7899/Day-Island-Sewer-System-Replacement) to see if there are any wins for public access that can be considered in this county project. We gave public comment to the city council about this on [2026-04-06](#2026-04-06).
 
 ## Background
 
@@ -62,6 +55,14 @@ The city should view Market Square (aka Village Square, in front of the library)
 1. Public parking is limited on the island, treated like neighborhood parking.
     * ~0.7 mile walk from nearest bus stop to the island with no connecting sidewalk.
 
+---
+
+## Current Status
+
+After sharing the initial proposal w/ UP Parks Advisory Commission ([see update](#2026-03-12)), we are planning to focus on spreading awareness and encouraging usage of the public spaces on Day Island throughout Summer 2026. This will involve making [flyers](/visit-day-island), social media posts, in-person networking, and organizing [public events](/get-involved) on the island. We will aim to document all this and share the results with the city at the end of the summer.
+
+Our coalition will also be involved in community engagement for the [Day Island Sewer System Replacement](https://www.piercecountywa.gov/7899/Day-Island-Sewer-System-Replacement) to see if there are any wins for public access that can be considered in this county project. We gave public comment to the city council about this on [2026-04-06](#2026-04-06).
+
 ## Updates
 
 ### 2026-04-06
@@ -110,3 +111,7 @@ Attendees:
 No opposition to the intentions of the proposal were raised, but there was a broad anticipation that some Day Island residents would oppose raising awareness of public spaces on the island. Jack Ecklund was able to provide some legal insights that will require updating our proposal: (1) there is no legal pathway for re-zoning right-of-way as a park and (2) public volunteers don't have the right to maintain these spaces. On a more positive side, Jack was also able to provide Market Square as an existing example within UP where right-of-way is maintained by the city to be used as a public space (seating, trash cans, events, art, etc). So there may not be a path currently to have the city formally re-zone and adopt these as parks, but there is precedent to have the city invest in and encourage use of such right-of-ways.
 
 Nora Flemming de Sandoval suggested, before we petition or bring this to city council, we (1) continue to build out this coalition to act as a voice of the public that will counter any voices of resistance from Day Island residents and (2) spread awareness about and normalize usage of the public spaces on Day Island in their current state to show that they are worth investing in.
+
+### 2026-02-26
+
+Proposal published.

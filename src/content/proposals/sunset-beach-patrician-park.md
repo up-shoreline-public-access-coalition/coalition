@@ -1,14 +1,14 @@
 ---
 title: "Sunset Beach Patrician Park"
 description: "Realize Patrician Lane on Sunset Beach as a shoreline park."
-pubDate: "Apr 18 2026"
+roi: 8
 ---
 
 **Objective: Realize Patrician Lane on Sunset Beach as a shoreline park.**
 
 ## Background
 
-If you've ever attempted to visit Sunset Beach, you may have been faced with this unfortunate sight:
+If you've ever attempted to visit Sunset Beach ([*Google Maps*](https://maps.app.goo.gl/ncmhKZ5L1x8ThoY98)), you may have been faced with this unfortunate sight:
 
 ![A 50 foot wide HOA-style gate blocking access to Sunset Beach. It says "residents only", "no soliciting", and warns of surveillance.](../../assets/sunset-beach-patrician-park/sunset-beach-gate.jpg)
 
@@ -22,7 +22,7 @@ From visiting the site, you will see that neighbors have encroached on the publi
 
 ## Proposal
 
-There is a Sunset Beach plat that the Pierce County auditor filed in 1933 that labels the public right-of-way leading out into the water as "Patrician Lane", and says:
+There is a [Sunset Beach plat](/sunset-beach-plat-1933.pdf) that the Pierce County auditor filed in 1933 that labels the public right-of-way leading out into the water as "Patrician Lane", and says:
 
 > ...the owner of the following described reef property...hereby donate and dedicate the lane and roads shown thereon to the public forever, for street and park purposes...
 
@@ -36,3 +36,15 @@ As usual, we would like to see essential amenities at this park:
 * Restroom
 
 And clear signage to ensure private and public property boundaries are being respected.
+
+---
+
+## Current Status
+
+Our coalition is working to confirm public rail crossing is allowed at this location. Until then, we are not broadly promoting visitation to this site. Our coalition will be visiting it throughout the summer to establish public presence.
+
+## Updates
+
+### 2026-04-18
+
+Proposal published.
