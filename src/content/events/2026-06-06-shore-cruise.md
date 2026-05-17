@@ -38,3 +38,5 @@ Time and date are subject to change based on weather, so RSVP and we will keep y
 1. Non-motorized watercraft (w/ paddles)
 1. Water bottle
 1. Snack(s) that won't make a mess
+
+![A flyer for this event. It says the UP Shoreline Public Access Coalition invites you to our first ever shore cruise! It takes place on June 6th at 1:00pm at 1898 Day Island Blvd W. Bring your own non-motorized watercraft. The very bottom of this flyer has a link to this page. The background of the flyer is a picture of Chambers Bay and it has character from Spongebob Squarepants surfing, kayaking, and paddling towards the viewer.](../../assets/events/2026-06-06-shore-cruise/flyer.jpg)

@@ -6,7 +6,7 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 
-const currentDate = Date.now();
+const currentDate = new Date().setHours(0, 0, 0, 0);
 const allEvents = (await getCollection('events')).sort(
 	(a, b) => a.data.eventDate.valueOf() - b.data.eventDate.valueOf(),
 );
