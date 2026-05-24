@@ -5,6 +5,8 @@ title: "Resource Dump"
 
 Consider this to be a directory of resources that coalition members might want to know about.
 
+* **Emergency**
+    * [Report a Stranded or Injured Marine Animal](https://www.fisheries.noaa.gov/report)
 * **Your Rights**
     * [Public Trust Doctrine](https://ecology.wa.gov/water-shorelines/shoreline-coastal-management/shoreline-coastal-planning/shoreline-laws-rules-and-cases/public-trust-doctrine)
 * **General Knowledge**
