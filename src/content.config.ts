@@ -26,7 +26,18 @@ const events = defineCollection({
 	}),
 });
 
+const analysis = defineCollection({
+	// Load Markdown and MDX files in the `src/content/analysis/` directory.
+	loader: glob({ base: "./src/content/analysis", pattern: "**/*.{md,mdx}" }),
+	// Type-check frontmatter using a schema
+	schema: z.object({
+		title: z.string(),
+		description: z.string(),
+	}),
+});
+
 export const collections = {
 	proposals: proposals,
 	events: events,
+	analysis: analysis,
 };
