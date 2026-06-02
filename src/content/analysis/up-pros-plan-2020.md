@@ -61,3 +61,32 @@ Notes (pages references correspond to PROS plan page count):
     * "I believe there is a little known **public beach trail on Day Island. It would be nice to have signage marking this location**. I think its at the NW end of the island, between some very tall hedge-rows." (page 174)
     * "Ease of **kayak launching** would be super" (page 174)
     * "Would love increased **accessibility to the beachfront at Chambers Bay area**!" (page 174)
+
+## Updates
+### 2026-06-01
+
+Gordon McCreary (UP Shoreline Public Access Coalition Leader) made a public comment at the University Place city council meeting to share a summary of this analysis. The timing of this public comment was relevant because the city has a deadline to update the PROS plan this month, and the city council had its first study session of the 2026 PROS plan later during this meeting that was not open for public comment.
+
+To summarize, Gordon's public comment outlined how the 2020 PROS plan didn't include any shoreline access sites despite the narrative, goals, and public outreach suggesting that it should be considered. Later in the meeting, the city council reviewed a summary of the 2026 PROS plan presented by Jack Ecklund (UP Director of Public Works). At the end of this presentation, Council Member Wood asked Jack Ecklund about the shoreline access public comment. Jack Ecklund confirmed the existence of the 7 shoreline public right-of-ways that our coalition has been advocating for, but stated that right-of-way sites are out of scope for the PROS plan (I will have to double check this, because the skeleton of the 2026 PROS plan I saw at the [2026-05-14 Parks Advisory Commission meeting](/proposals/sunset-beach-patrician-park#2026-05-14) *included* Market Square which is a public right-of-way site that Jack Ecklund suggested as prior art at the [2026-03-12 Parks Advisory Commission meeting](/proposals/day-island-micro-park-network#2026-03-12)). Beyond that, city council floated the idea of a study session so they can be aware of these sites or also a broader on-site tour where the city council visits all of our public spaces as a refresher.
+
+Watch public comment playback (starting at 36m 24s):
+https://youtu.be/JTaTfz-cxlY?t=2184
+
+Watch city council discussion playback (starting at 2h 47m 42s):
+https://youtu.be/JTaTfz-cxlY?t=10062
+
+
+Present city council members:
+* #1 Javier Figueroa
+* #2 Frank Boykin
+* #3 Alecia Cunningham
+* #4 Edward Wood
+* #6 Stan Flemming (Mayor)
+* #7 Melanie Grassi
+
+Absent city council members:
+* #5 Denise McCluskey (Mayor Pro Tem)
+
+### 2026-05-31
+
+Analysis published.
