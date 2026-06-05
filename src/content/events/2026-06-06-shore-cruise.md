@@ -1,8 +1,10 @@
 ---
 eventType: "Shore Cruise"
-eventDate: "June 6 2026"
-eventTime: "2026-06-06T13:00:00-07:00"
+eventDate: "June 13 2026"
+eventTime: "2026-06-13T13:00:00-07:00"
 ---
+
+**Update: This event was postponed from June 6th to June 13th due to bad weather.**
 
 **Update: We shortened the route to make it more casual. This page has been updated accordingly.**
 
@@ -41,9 +43,11 @@ Time and date are subject to change based on weather, so RSVP and we will keep y
 1. Water bottle
 1. Snack(s) that won't make a mess
 
-![A flyer for this event. It says the UP Shoreline Public Access Coalition invites you to our first ever shore cruise! It takes place on June 6th at 1:00pm at 1898 Day Island Blvd W. Bring your own non-motorized watercraft. The very bottom of this flyer has a link to this page. The background of the flyer is a picture of Chambers Bay and it has character from Spongebob Squarepants surfing, kayaking, and paddling towards the viewer.](../../assets/events/2026-06-06-shore-cruise/flyer.jpg)
+![A flyer for this event. It says the UP Shoreline Public Access Coalition invites you to our first ever shore cruise! It takes place on June 13th at 1:00pm at 1898 Day Island Blvd W. Bring your own non-motorized watercraft. The very bottom of this flyer has a link to this page. The background of the flyer is a picture of Chambers Bay and it has character from Spongebob Squarepants surfing, kayaking, and paddling towards the viewer.](../../assets/events/2026-06-06-shore-cruise/flyer-after-postpone.jpg)
 
 #### Update
+
+On 2026-06-05, we decided to postpone the event because the weather forecast shows lightning, rain, and lower air temperatures. We think people will be safer and more comfortable this way. 
 
 On 2026-05-23 we did a trial run of the originally proposed route (out and back from Day Island to Chambers Creek Regional Park) and found that, while doable within the 4 hour window, it would require moving at a non-casual pace. In the spirit of keeping this event casual and beginner friendly, we have opted to shorten the route by turning around at Sunset Beach instead. This reduces the distance we will need to travel by 2.5 miles. We will try to organize events in the future to cover the portions of shoreline that we won't see in this event.
 
