@@ -6,6 +6,9 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
 import FormattedDate from '../../components/FormattedDate.astro';
 
+// To enable fetching of current timestamp at render time (separate past and future events).
+export const prerender = false
+
 const currentDate = new Date().setHours(0, 0, 0, 0);
 const allEvents = (await getCollection('events')).sort(
 	(a, b) => a.data.eventDate.valueOf() - b.data.eventDate.valueOf(),
@@ -29,9 +32,6 @@ const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= current
 				list-style-type: none;
 				margin: 0;
 				padding: 0;
-			}
-			.events ul li {
-				width: calc(50% - 1rem);
 			}
 			.events ul li * {
 				text-decoration: none;
@@ -81,7 +81,7 @@ const futureEvents = allEvents.filter(e => e.data.eventDate.valueOf() >= current
 								futureEvents.map((e) => (
 									<li>
 										<a href={`/get-involved/${e.id}/`}>
-											<h4 class="title">{e.data.eventType}</h4>
+											<h4 class="title">{e.data.eventName}</h4>
 											<p class="date">
 												<FormattedDate date={e.data.eventDate} />
 											</p>

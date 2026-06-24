@@ -1,5 +1,5 @@
 ---
-eventType: "Shore Cruise"
+eventName: "Shore Cruise: Day Island to Sunset Beach"
 eventDate: "June 13 2026"
 eventTime: "2026-06-13T13:00:00-07:00"
 ---
