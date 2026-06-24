@@ -23,7 +23,7 @@ const eventTimeString = new Date(post.data.eventTime).toLocaleTimeString(undefin
 });
 ---
 
-<BasePage {...post.data} title={post.data.eventType} pubDate={post.data.eventDate}>
+<BasePage {...post.data} title={post.data.eventName} pubDate={post.data.eventDate}>
 	<h2>Starts {eventTimeString}</h2>
 	<Content />
 </BasePage>
